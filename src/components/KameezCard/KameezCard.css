@@ -1,0 +1,32 @@
+.icon-down{
+    margin-left: 120px;
+    }
+
+.category-section{
+
+    width: 250px;
+}
+.card-section{
+    /* height: auto; */
+    width: 78%;
+    /* border: 2px solid black; */
+}
+
+/* responsiveness  */
+@media screen and (max-width: 1272px) {
+    .card-section{
+       
+        width: 69%;
+    }}
+  @media screen and (max-width: 920px) {
+    .card-section{
+         width: 60%;
+     }
+   
+  }
+  @media screen and (max-width: 390px) {
+    .card-section{
+      margin: auto;
+    }
+   
+  }

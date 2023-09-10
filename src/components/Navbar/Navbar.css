@@ -1,0 +1,30 @@
+.hover-dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  .navbar-nav .nav-item {
+  padding: 0 10px; /* Add padding to the menu items */
+}
+
+.navbar-nav .nav-link {
+  color: #191919; /* Set text color to black */
+  font-weight: 500; /* Make the text bold */
+  padding: 10px 15px; /* Add padding to the link elements */
+}
+
+/* Style the dropdown menu */
+.dropdown-menu {
+  background-color: white; /* Set background color for the dropdown menu */
+  border: 1px solid #ddd; /* Add a border to the dropdown menu */
+}
+
+.dropdown-item {
+  color: #191919; /* Set text color for dropdown items */
+  font-weight: normal; /* Reset font weight for dropdown items */
+  padding: 8px 20px; /* Add padding to dropdown items */
+}
+
+.dropdown-divider {
+  border-color: #ddd; /* Set color for the dropdown divider */
+}
+
+
